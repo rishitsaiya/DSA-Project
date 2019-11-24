@@ -1,9 +1,11 @@
 # DSA-Project
 
 For storage of different trees structure has been used.
+
 Price= p * h * d; weight= c * p * h; 
-profit = price+ profit earned by domino effect i.e. price of other tree that fall due to domino effect
-direc stores the direction in which the tree should be cut so as to get the max profit
+
+Upadted profit : profit = price + profit earned by domino effect, i.e. price of other tree that fall due to domino effect
+direc stores the direction in which the tree should be cut so as to get the max profit.
 
 vector v stores the information of all the tree
 c_x and c_y stores the information about the current x,y coordinates i.e. the coordinates of the most recently cut tree
