@@ -1,4 +1,4 @@
-# DSA-Project
+# LUMBERJACK
 
 For storage of different trees structure has been used.
 
