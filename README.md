@@ -32,11 +32,9 @@ due to the domino effect.
 
 Similar tasks are performed by cutright_profit(), cutdown_profit() and cutdown_profit() functions.
 
-------------------------
 Till this step we would have determined the best direction and profit that we can get while cutting 
 the tree is cut in the best direction.
 
--------------------------
 Now coming back to the main function
 
 path() function
@@ -46,8 +44,6 @@ This function first computes the cost of cutting a tree i.e. the cost of reachin
 tree plus the diameter of the tree. If this cost is less than the time left with us then 
 it calculates the profit/time for that tree. Then it finds the maximum of this quantity among 
 all the trees and the next tree to be cut will be the tree which has the maximum of this quantity.
-
------------------
 
 Now coming back to the main function
 
@@ -63,5 +59,3 @@ Now from the time which has been given to us to cut the tree, we deduct the diam
 the tree to be cut. Then the trees which will be cut using the domino effect will be 
 removed from our database. Then the tree itself will be removed from our database. Then
 the current coordinates will be equal to the next coordinates.
-
---------------------
