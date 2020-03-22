@@ -59,3 +59,8 @@ Now from the time which has been given to us to cut the tree, we deduct the diam
 the tree to be cut. Then the trees which will be cut using the domino effect will be 
 removed from our database. Then the tree itself will be removed from our database. Then
 the current coordinates will be equal to the next coordinates.
+
+Project Team:
+[Abhinav Pratap Singh](https://github.com/)
+[Rishit Saiya](htpps://wwww.github.com/rishitsaiya)
+[Utkarsh Prakash](https://www.github.com/)
