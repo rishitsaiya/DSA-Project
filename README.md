@@ -61,6 +61,6 @@ removed from our database. Then the tree itself will be removed from our databas
 the current coordinates will be equal to the next coordinates.
 
 Project Team:
-[Abhinav Pratap Singh](https://github.com/)
+[Abhinav Pratap Singh](https://github.com/abhinav7076)
 [Rishit Saiya](htpps://wwww.github.com/rishitsaiya)
 [Utkarsh Prakash](https://www.github.com/)
