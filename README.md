@@ -1,8 +1,8 @@
-# LUMBERJACK
+# [LUMBERJACK](https://www.optil.io/optilion/problem/3000#tab-1)
 
 For storage of different trees structure has been used.
 
-Price= p * h * d; weight= c * p * h; 
+Price = p * h * d; weight = c * p * h; 
 
 Upadted profit : profit = price + profit earned by domino effect, i.e. price of other tree that fall due to domino effect
 direc stores the direction in which the tree should be cut so as to get the max profit.
@@ -18,7 +18,7 @@ k represents the number of trees
 calculate_profit() function
 ---------------------------
 
-This function calculates the direction in which the profit is maximum and updates the profit of each tree in that direction
+This function calculates the direction in which the profit is maximum and updates the profit of each tree in that direction.
 
 cutup_profit() function
 -----------------------
@@ -35,7 +35,7 @@ Similar tasks are performed by cutright_profit(), cutdown_profit() and cutdown_p
 Till this step we would have determined the best direction and profit that we can get while cutting 
 the tree is cut in the best direction.
 
-Now coming back to the main function
+Now coming back to the main function.
 
 path() function
 ---------------
@@ -45,7 +45,7 @@ tree plus the diameter of the tree. If this cost is less than the time left with
 it calculates the profit/time for that tree. Then it finds the maximum of this quantity among 
 all the trees and the next tree to be cut will be the tree which has the maximum of this quantity.
 
-Now coming back to the main function
+Now coming back to the main function.
 
 printPath() function
 --------------------
@@ -60,6 +60,7 @@ the tree to be cut. Then the trees which will be cut using the domino effect wil
 removed from our database. Then the tree itself will be removed from our database. Then
 the current coordinates will be equal to the next coordinates.
 
-Project Team:
-[Abhinav Pratap Singh](https://github.com/abhinav7076) [Rishit Saiya](htpps://wwww.github.com/rishitsaiya)
+Project Team: </br>
+[Abhinav Pratap Singh](https://github.com/abhinav7076)</br> 
+[Rishit Saiya](htpps://wwww.github.com/rishitsaiya)</br>
 [Utkarsh Prakash](https://www.github.com/)
